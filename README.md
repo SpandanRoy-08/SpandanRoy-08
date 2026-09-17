@@ -26,7 +26,10 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </picture>
 </div>
 
 ---
@@ -39,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpandanRoy-08&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SpandanRoy-08&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="GitHub Streak" />
 </div>
 
 ---
