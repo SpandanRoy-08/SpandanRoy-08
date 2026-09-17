@@ -58,22 +58,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpandanRoy-08&theme=tokyo-night&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SpandanRoy-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
-
----
-
 > **"The best way to predict the future is to implement it."** — Alan Kay
 
 <div align="center">
