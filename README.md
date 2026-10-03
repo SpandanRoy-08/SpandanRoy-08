@@ -60,6 +60,4 @@
 
 > **"The best way to predict the future is to implement it."** — Alan Kay
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SpandanRoy-08&color=00d4aa&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
+
