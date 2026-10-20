@@ -27,6 +27,3 @@ build/
 *.dll
 *.so
 *.dylib
-
-# GitHub Actions
-.github/workflows/*.yml
