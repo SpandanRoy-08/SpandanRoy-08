@@ -27,8 +27,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake-dark.svg?v=20261020" />
-    <img src="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake.svg?v=20261020" alt="Snake Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake-dark.svg?v=20261020-fix" />
+    <img src="https://raw.githubusercontent.com/SpandanRoy-08/SpandanRoy-08/output/github-contribution-grid-snake.svg?v=20261020-fix" alt="Snake Animation" />
   </picture>
 </div>
 
@@ -59,4 +59,3 @@
 ---
 
 > **"The best way to predict the future is to implement it."** — Alan Kay
-
