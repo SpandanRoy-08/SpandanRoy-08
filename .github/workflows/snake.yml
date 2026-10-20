@@ -4,9 +4,11 @@ on:
     # Refresh several times per day so new contributions appear sooner.
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  # Regenerate the snake after every push, regardless of branch.
   push:
-    branches:
-      - main
+    # The action publishes generated SVGs to this branch; ignore it to avoid a loop.
+    branches-ignore:
+      - output
 
 permissions:
   contents: write
