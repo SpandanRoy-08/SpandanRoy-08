@@ -15,7 +15,18 @@
 
 ---
 
-### 🛠 Tech Stack
+## 01 / Snapshot
+
+Hi, I'm **Spandan Roy**, an **IT undergraduate at DJSCE** who enjoys turning ideas into useful software.
+
+- 🚀 Built **CodePilot**, a project driven by curiosity and a passion for building
+- 📚 Learning **C++** and **Python** for web development
+- 🧠 Exploring new technologies, problem-solving, and better ways to create
+- 🔨 Currently focused on learning by building real projects
+
+---
+
+## 02 / Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,python,github,vscode" alt="Tech Stack" />
@@ -47,15 +58,15 @@
 
 ---
 
-### 🎯 Currently Focused On
+## 03 / Current Focus
 
 | Area | Status |
 |------|--------|
-| C/C++ Systems Programming | 🟢 Learning |
-| C# & .NET Fundamentals | 🟡 Exploring |
-| Data Structures & Algorithms | 🟢 Practicing |
-| Git & Version Control | 🟢 Comfortable |
+| C++ | 🟢 Learning |
+| Python for Web Development | 🟢 Learning |
+| CodePilot | 🚀 Built |
+| Problem Solving | 🟡 Improving |
 
 ---
 
-> **"The best way to predict the future is to implement it."** — Alan Kay
+> **Stay curious, keep building, and let every line of code take you one step closer to the future you imagine.**
