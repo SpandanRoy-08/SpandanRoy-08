@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Spandan+Roy;Student+%7C+Learning+C%2FC%2B%2B%2FC%23;Systems+Programming+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Spandan+Roy;IT+Undergrad;Want+to+Explore;Turning+Curiosity+Into+Code" alt="Typing Animation" />
   
   <br />
   
